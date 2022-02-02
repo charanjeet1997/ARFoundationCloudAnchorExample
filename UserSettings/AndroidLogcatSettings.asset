@@ -1,0 +1,179 @@
+{
+    "m_SelectedDeviceId": "87f26df7",
+    "m_SelectedPackage": {
+        "deviceId": "87f26df7",
+        "name": "com.defaultcompany.cloudanchortest",
+        "processId": 14304,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "87f26df7",
+            "name": "com.oppo.launcher",
+            "processId": 3744,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 18285,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 20636,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 22368,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 25808,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 26957,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 28382,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 30391,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 6753,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 12386,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 18873,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.DefaultCompany.UnityARFoundationCloudAnchorTest",
+            "processId": 20558,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 25047,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 27410,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 29309,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 32192,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 6929,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 11820,
+            "exited": false
+        },
+        {
+            "deviceId": "87f26df7",
+            "name": "com.defaultcompany.cloudanchortest",
+            "processId": 14304,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "unity",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

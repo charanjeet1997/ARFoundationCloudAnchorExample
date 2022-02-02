@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARCloudAnchotTest.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 070e4c0e80ee7674db927b8fbaa9e2f2, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 44e185a73d1c5c742ae0accb0c9fedd3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9d5bb053ee4e474468a38843e851f45b, type: 2}
